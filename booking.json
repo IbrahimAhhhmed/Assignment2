@@ -1,0 +1,3 @@
+{"_id":"booking1","datetime_of_service":{"$date":"2017-10-13T10:53:53.000Z"},"payment_received_yn":"received","mechanic":["mechanic1","mechanic2"]}
+{"_id":"booking2","datetime_of_service":{"$date":"2018-06-20T10:53:53.000Z"},"payment_received_yn":"half payment received","mechanic":["mechanic2"]}
+{"_id":"booking3","datetime_of_service":{"$date":"2021-02-09T10:53:53.000Z"},"payment_received_yn":"not received","mechanic":["mechanic2","mechanic3"]}

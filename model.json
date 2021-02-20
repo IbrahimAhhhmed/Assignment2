@@ -1,0 +1,2 @@
+{"_id":"model1","model_code":2020.0,"daily_hire_rate":10000.0,"model_name":"Toyota Altis Grande","car":["car1","car2","car3"]}
+{"_id":"model2","model_code":2019.0,"daily_hire_rate":10500.0,"model_name":"Toyota Fortuner","car":["car2","car3"]}
